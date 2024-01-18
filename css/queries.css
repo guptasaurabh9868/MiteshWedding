@@ -14,6 +14,7 @@
 @media screen and (max-width: 1024px) {
     .hero .hero-content {
         padding-top: 50%;
+        background-color: "red";
     }
 }
 
