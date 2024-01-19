@@ -29,12 +29,23 @@
 #eng-pics h3 {
 color:white;
 }
+@media (min-width: 400px) {
 #map{
     background-position: center;
     background-size:cover;
     background-image: url('../img/mitesh_bg_pics/bg_3.JPG');
     background-attachment:fixed;
 
+}
+}
+@media (max-width: 400px) {
+    #map{
+        background-position: center;
+        background-size:cover;
+        background-color: #580404;
+        /* background-image: url('../img/mitesh_bg_pics/bg_3.JPG'); */
+        background-attachment:fixed;
+    }
 }
 .bg-color{
     background-color: rgb(21 21 21 / 60%);
@@ -65,6 +76,17 @@ color:black}
     background-size:cover;
     background-image: url('../img/BG8.jpg');
 }
+@media (max-width: 400px) {
+    #events{
+        background-position: center;
+        background-size:cover;
+        background-color: aliceblue;
+        /* background-image: url('../img/mitesh_bg_pics/bg_2.JPG'); */
+        background-attachment:fixed;
+        color: White;
+}
+}
+@media (min-width: 400px) {
 #events{
     background-position: center;
     background-size:cover;
@@ -72,6 +94,8 @@ color:black}
     background-attachment:fixed;
     color: White;
 }
+}
+
 #SpecInvitation{
     background-position: center;
     background-size:cover;
@@ -83,7 +107,7 @@ color:black}
     background-size:cover;
    color: White;
 }
-#extendedfamily p,extendedfamily h2
+#extendedfamily p, extendedfamily h2
 {
 color:white;}
 #family h1
@@ -92,13 +116,23 @@ color:white;}
 #intro h3,#intro h2,#intro p
 {
 color:black;}
+@media (min-width: 400px) {
 #Total{
     background-position: center;
     background-size:cover;
     background-image: url('../img/mitesh_bg_pics/bg_1.jpg');
     background-attachment:fixed;
 }
-
+}
+@media (max-width: 400px) {
+    #Total{
+        background-position: center;
+        background-size:cover;
+        background-color: antiquewhite;
+        /* background-image: url('../img/mitesh_bg_pics/bg_1.jpg'); */
+        background-attachment:fixed;
+    }
+    }
 .container-fluid{
     background-position: center;
     background-size:cover;
