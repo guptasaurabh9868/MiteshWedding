@@ -93,6 +93,7 @@ color:black}
         background-attachment:fixed;
         color: White;
 }
+}
 @media (max-width: 500px) {
 #events{
     background-position: center;
@@ -110,6 +111,7 @@ color:black}
         background-attachment:fixed;
         color: White;
     }
+}
 #SpecInvitation{
     background-position: center;
     background-size:cover;
@@ -121,7 +123,7 @@ color:black}
     background-size:cover;
    color: White;
 }
-#extendedfamily p,extendedfamily h2
+#extendedfamily p, extendedfamily h2
 {
 color:white;}
 #family h1
