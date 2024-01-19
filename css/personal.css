@@ -43,7 +43,8 @@ color:white;
         background-position: center;
         background-size:cover;
         background-image: url('../img/mitesh_bg_pics/bg_3.JPG');
-        background-attachment:fixed;
+        background-attachment:local;
+
     
     }
 }
