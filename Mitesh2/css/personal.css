@@ -1,0 +1,213 @@
+
+
+#ladkewale{
+    display:none;
+    background-position: center;
+    background-size:cover;
+    border-radius: 50px;
+
+}
+#ladkiwale{
+    display:none;
+    background-position: center;
+    background-size:cover;
+    border-radius: 50px;
+}
+
+#toggle{
+    display: none;
+}
+#toggling{
+    background-image: url('../img/bg_hd_3.jpg');
+}
+#eng-pics{
+    background-position: center;
+    background-size:cover;
+    background:#3b2529
+
+}
+#eng-pics h3 {
+color:white;
+}
+#map{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/mitesh_bg_pics/bg_3.JPG');
+    background-attachment:fixed;
+
+}
+.bg-color{
+    background-color: rgb(21 21 21 / 60%);
+    border-radius: 20px;
+    margin: 0px 10px;
+    padding: 15px 0px 0px 0px;
+}
+#White h3, #White p, #White h1, #White h2, #White h5, #White i, #White a{
+color: rgb(255, 255, 255);
+
+}
+ #map h3
+ { font-size:24px;
+ }
+ #events h2, #events p, #events h1, #events h2, #events h5, #events i, #events label{
+ color: White;
+ }
+#place h5{
+color:black}
+
+#timeleft{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/BG7.jpg');
+}
+.card{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/BG8.jpg');
+}
+#events{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/mitesh_bg_pics/bg_2.JPG');
+    background-attachment:fixed;
+    color: White;
+}
+#SpecInvitation{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/bg_hd_7.jpg');
+}
+
+#extendedfamily{
+    background-position: center;
+    background-size:cover;
+   color: White;
+}
+#extendedfamily p,extendedfamily h2
+{
+color:white;}
+#family h1
+{
+color:white;}
+#intro h3,#intro h2,#intro p
+{
+color:black;}
+#Total{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/mitesh_bg_pics/bg_1.jpg');
+    background-attachment:fixed;
+}
+
+.container-fluid{
+    background-position: center;
+    background-size:cover;
+    background-image: url('../img/bg_hd_7.jpg');
+
+}
+
+#invitation{
+    background-position: center;
+    background-size:cover;
+    font-weight: 300;
+    font-size: 3em;
+    color: #580404;
+    font-family: "neuton", serif;
+    }
+.card-img-topp{
+    align-self: center;
+    padding: 10px 20px 10px 20px;
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    height: 155px;
+}
+h2{
+    text-align: center;
+}
+.ex-fam{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.icon-img{vertical-align:middle;width: 30px; height: 35px; margin: 0px 20px 0px 0px;}
+
+.timelefttext{
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    padding: 150px 0px 150px 0px;
+    background-color: #90909090;
+    font-size: 25px;
+}
+label{
+    display: inline-block;
+    pointer-events: none;
+}
+#lagan, #mehandi, #disco, #haldi, #bus, #dinner, #varmala{
+    pointer-events: none;
+    width: 100px;
+    height: 80px;
+}
+.invite{
+    font-family: 'Bangers', cursive;
+    font-size: 60px;
+    font-weight: 100;
+}
+#intro{
+    background-image: url('../img/bg_hd_5.jpg');
+    display: block;
+}
+p{
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+}
+.sname, .aname{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+.pname, .mname{
+    font-family: 'Cinzel', serif;
+    font-size: 35px;
+}
+.special_invite_pics{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.centre{
+    text-align: center;
+}
+.eventfont{
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.datecard{
+    background-origin: padding-box;
+}
+.golden_moments{
+    border: 3px solid white;
+    border-radius: 55px;
+    padding: 20px 6px 0px 0px;
+    margin: 15px 70px 6px 70px;
+    text-align: center;
+}
+.functioncard{
+    background-color: #877f317d;
+    margin: 0px -5px 10px 5px;
+    border-radius: 10%;
+}
+mark{
+    opacity: 0.4;
+}
