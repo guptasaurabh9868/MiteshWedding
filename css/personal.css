@@ -76,16 +76,17 @@ color:black}
     background-size:cover;
     background-image: url('../img/BG8.jpg');
 }
-@media (min-width: 500px) {
+@media (max-width: 400px) {
     #events{
         background-position: center;
         background-size:cover;
-        background-image: url('../img/mitesh_bg_pics/bg_2.JPG');
+        background-color: aliceblue;
+        /* background-image: url('../img/mitesh_bg_pics/bg_2.JPG'); */
         background-attachment:fixed;
         color: White;
 }
 }
-@media (max-width: 500px) {
+@media (min-width: 400px) {
 #events{
     background-position: center;
     background-size:cover;
@@ -94,15 +95,7 @@ color:black}
     color: White;
 }
 }
-@media (min-width: 800px) {
-    #events{
-        background-position: center;
-        background-size:cover;
-        background-image: url('../img/mitesh_bg_pics/bg_2.JPG');
-        background-attachment:fixed;
-        color: White;
-    }
-}
+
 #SpecInvitation{
     background-position: center;
     background-size:cover;
@@ -123,13 +116,23 @@ color:white;}
 #intro h3,#intro h2,#intro p
 {
 color:black;}
+@media (min-width: 400px) {
 #Total{
     background-position: center;
     background-size:cover;
     background-image: url('../img/mitesh_bg_pics/bg_1.jpg');
     background-attachment:fixed;
 }
-
+}
+@media (max-width: 400px) {
+    #Total{
+        background-position: center;
+        background-size:cover;
+        background-color: antiquewhite;
+        /* background-image: url('../img/mitesh_bg_pics/bg_1.jpg'); */
+        background-attachment:fixed;
+    }
+    }
 .container-fluid{
     background-position: center;
     background-size:cover;
