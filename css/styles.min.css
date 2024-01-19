@@ -27,14 +27,14 @@
         /* position:relative; */
         width: 100%; /* makes the image responsive */
         object-fit: contain;
-        min-height: 820px;
+        min-height: 550px;
         background-position-y: 90px;
         background-color: black;
     }
 }
 @media (min-width: 800px) {
 .hero{
-    min-height:3500px;
+    min-height:1600px;
     background:url(../img/IMG_2496.JPEG) center center;
     -webkit-background-size:cover;
     -moz-background-size:cover;
