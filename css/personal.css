@@ -29,7 +29,7 @@
 #eng-pics h3 {
 color:white;
 }
-@media (min-width: 500px) {
+@media (min-width: 400px) {
 #map{
     background-position: center;
     background-size:cover;
@@ -38,23 +38,13 @@ color:white;
 
 }
 }
-@media (max-width: 500px) {
+@media (max-width: 400px) {
     #map{
         background-position: center;
         background-size:cover;
-        background-image: url('../img/mitesh_bg_pics/bg_3.JPG');
-        background-attachment:local;
-
-    
-    }
-}
-@media (min-width: 800px) {
-    #map{
-        background-position: center;
-        background-size:cover;
-        background-image: url('../img/mitesh_bg_pics/bg_3.JPG');
+        background-color: #580404;
+        /* background-image: url('../img/mitesh_bg_pics/bg_3.JPG'); */
         background-attachment:fixed;
-    
     }
 }
 .bg-color{
