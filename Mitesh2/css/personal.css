@@ -33,7 +33,8 @@ color:white;
 #map{
     background-position: center;
     background-size:cover;
-    background-image: url('../img/mitesh_bg_pics/bg_3.JPG');
+    background-color:Black;
+    /* background-image: url('../img/mitesh_bg_pics/bg_3.JPG'); */
     background-attachment:fixed;
 
 }
@@ -70,7 +71,8 @@ color:black}
 #events{
     background-position: center;
     background-size:cover;
-    background-image: url('../img/mitesh_bg_pics/bg_2.JPG');
+    background-color:black;
+    /*background-image: url('../img/mitesh_bg_pics/bg_2.JPG'); */
     background-attachment:fixed;
     color: White;
 }
@@ -100,7 +102,8 @@ color:black;}
 #Total{
     background-position: center;
     background-size:cover;
-    background-image: url('../img/mitesh_bg_pics/bg_1.jpg');
+    background-color:black;
+    /*background-image: url('../img/mitesh_bg_pics/bg_1.jpg');*/
     background-attachment:fixed;
 }
 
